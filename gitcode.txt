@@ -7,4 +7,5 @@ git remote add origin https://address.get -- done once per project to connect lo
 git push -u otigin main -- works with top command but after you will just use
 git push
 
-test
+git fetch origin: Think of this as checking for updates. It’s like when your phone notifies you that app updates are available. You have the new information, but it hasn’t been installed yet.
+git merge origin/main or git merge origin/master: This is like actually installing those updates on your phone. The new changes from the remote repository are integrated into your current working branch.
