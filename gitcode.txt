@@ -3,7 +3,8 @@ git add filename.type -- add the doc to stage for future commit to code
 git commit -- commits the code
 git commit -m "type in commit notes here"
 git branch -M main -- make a new branch. main can be called whatever
-git remote add origin https://address.get -- done once per project to connect local and web gits
+git remote add origin https://address.get -- done once per project to connect local and web gits 
 git push -u otigin main -- works with top command but after you will just use
 git push
 
+test
